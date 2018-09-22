@@ -11,4 +11,4 @@
   Set "Step Boards" "X Steps=4", "Y Steps=1", "X Spacing=2", "Y Spacing=2" and "Image=90" +
   Select "Step and Expand Panel" +
 * Close Panel Editor to generate the Panelised PCB.
-* The Panel should look like the following.
+* The Panel Image of Four PCBs is now displayed inthe Pane as Follows.
