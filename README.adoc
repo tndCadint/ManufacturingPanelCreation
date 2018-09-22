@@ -1,3 +1,5 @@
 # ManufacturingPanelCreation
- * Launch Cadint and "Create New PCB Design"
- 
+
+* Launch Cadint and "Create New PCB Design"
+* Save as desired "Name"
+* From Menubar Ad PCB Design as Component
