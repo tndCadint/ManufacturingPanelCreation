@@ -3,4 +3,12 @@
 * Launch Cadint and "Create New PCB Design" +
   Save as desired Name.
 * From Menubar "Add PCB Design as a Component" +
-  This the PCB Design which is to be Panelised.
+  This is the PCB Design which is to be Panelised.
+* From Menubar select "Tools - Panel Editor" to launch the "Panel Editor" +
+  Select the "Panel Utility" +
+  Leave "Outline Force" as is +
+  Set "Outline Expand" "LEFT". "TOP", "RIGHT" and "BOTTOM" to 12 mm. +
+  Set "Step Boards" "X Steps=4", "Y Steps=1", "X Spacing=2", "Y Spacing=2" and "Image=90" +
+  Select "Step and Expand Panel" +
+* Close Panel Editor to generate the Panelised PCB.
+* The Panel should look like the following.
