@@ -2,4 +2,5 @@
 
 * Launch Cadint and "Create New PCB Design" +
   Save as desired Name.
-* From Menubar "Add PCB Design as a Component
+* From Menubar "Add PCB Design as a Component" +
+  This the PCB Design which is to be Panelised.
