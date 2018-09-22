@@ -1,1 +1,4 @@
 # ManufacturingPanelCreation
+ * Launch Cadint and "Create New PCB Design"
+ * Save as "Desired Name".
+ * From Cadint Menubar select "Add PCB 
