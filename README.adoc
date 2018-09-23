@@ -7,6 +7,7 @@
   
   image::images/PCB-Design.gif[PCB Design to be panellised]
   
+  
 * From Menubar select "Tools - Panel Editor" to launch the "Panel Editor" +
   Select the "Panel Utility" +
   Leave "Outline Force" as is +
