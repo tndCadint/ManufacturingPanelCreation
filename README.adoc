@@ -27,13 +27,14 @@ image::images/PopulatedPanel.gif[Populated Panel]
 * Move the "Panel Outline" to the desired postion of the "Primary Fiducial"
   In our example this is 6 mm directly below the "Lower Left" corner of the first board
   This is achieved as follows
-    A. Select and open "BOARD.DEFAULT" by querying the "MINBOARD" "LowerLEFT" corner.
-    B. Move "MinBoard" and "Panel Outline" lines by X=-12 and Y=-6'
-    C. Move "MaxBoard" to be on "Upper Right" corner of "Panel Outline".
-    D. Close and "save" "BOARD>DEFAULT".
-    E. Open/Load "BOARD>DEFAULT"
-    F. Ignore "Match Alternative" warning and press "OK"
-    G. Now move all Panel Components by X=-12 and Y=-6 mm
+    A. Gain access to the "Panel local library" by doing a query on "Board 1 Component"
+    B. In "Local Library" Select and open "BOARD.DEFAULT" by querying the "Board 1 Component" "LowerLEFT" corner.
+    C. Move "MinBoard" and "Panel Outline" lines by X=-12 and Y=-6'
+    D. Move "MaxBoard" to be on "Upper Right" corner of "Panel Outline".
+    E. Close and "save" "BOARD>DEFAULT".
+    F. Open/Load "BOARD>DEFAULT"
+    G. Ignore "Match Alternative" warning and press "OK"
+    H. Now move all Panel Components by X=-12 and Y=-6 mm
     
 * The Panel should now look like the following
 
