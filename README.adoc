@@ -7,7 +7,6 @@
   
 image::images/PCB-Design.gif[PCB Design to be panellised]
   
-  
 * From Menubar select "Tools - Panel Editor" to launch the "Panel Editor" +
   Select the "Panel Utility" +
   Leave "Outline Force" as is +
@@ -16,4 +15,7 @@ image::images/PCB-Design.gif[PCB Design to be panellised]
   Select "Step and Expand Panel" +
 * Close Panel Editor to generate the Panelised PCB.
 * The Panel Image of Four PCBs is now displayed in the Panel as Follows.
+
+image::images/PopulatedPanel.gif[Populated Panel]
+
 * end
