@@ -17,5 +17,22 @@ image::images/PCB-Design.gif[PCB Design to be panellised]
 * The Panel Image of Four PCBs is now displayed in the Panel as Follows.
 
 image::images/PopulatedPanel.gif[Populated Panel]
-
+    
 * Remove the "V Groove Route Traces" from the panel and replace with "Routed Slots" and "Breakout Sections"
+  Hit "V" to Display the Visible Layers.
+  Select "Set on exclude" and then "Panel Routing Unplated" followed by "OK" button.
+  Select and Delete the "Panel Routing Unplated" lines
+  Restore all layers using "V" and "Set on ALL" followed by "OK"
+
+* Move the "Panel Outline" to the desired postion of the "Primary Fiducial"
+  In our example this is 6 mm directly below the "Lower Left" corner of the first board
+  This is achieved as follows
+    A. Select and open "BOARD.DEFAULT" by querying the "MINBOARD" "LowerLEFT" corner.
+    B. Move "MinBoard" and "Panel Outline" lines by X=-12 and Y=-6'
+    C. Move "MaxBoard" to be on "Upper Right" corner of "Panel Outline".
+    D. Close and "save" "BOARD>DEFAULT".
+    E. Open/Load "BOARD>DEFAULT"
+    F. Ignore "Match Alternative" warning and press "OK"
+    G. Now move all Panel Components by X=-12 and Y=-6 mm
+    
+* The Panel should now look like the following  
