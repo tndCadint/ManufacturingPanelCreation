@@ -51,3 +51,15 @@ image::images/PanelWithCorrectOrigin.gif[Panel at New Origin]
 * The Panel should now look like the following
 
 image::images/PanelWithFiducials.gif[Panel with Fiducials added]
+
+* Add "Breakout Section" "Symbols" to the Panel. +
+  From the Menubar "Add" "PCB Component by Symbol" and navigate to Symbol Library. +
+  Select "BREAKOUT.2x2mm" and place at the following co-ordinates: +
+  X=12 Y=5,   X=  45 Y=5,   X=71 Y=5,   X=104 Y=5,   X=130 Y=5,   X=163 Y=5,   X=189 Y=5,   X=222 Y=5, +
+  X=12 Y=109, X=  45 Y=109, X=71 Y=109, X=104 Y=109, X=130 Y=109, X=163 Y=109, X=189 Y=109, X=222 Y=109, +
+  x=-1 Y=18,  X=  58 Y=18,  X=117 Y=18, X=176 Y=18,  X=235 Y=18 +
+  x=-1 Y=57,  X=  58 Y=57,  X=117 Y=57, X=176 Y=57,  X=235 Y=57 +
+  x=-1 Y=96,  X=  58 Y=96,  X=117 Y=96, X=176 Y=96,  X=235 Y=96 +
+
+image::images/PanelWithBreakouts.gif[Panel with Breakouts added]
+
