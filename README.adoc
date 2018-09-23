@@ -60,6 +60,8 @@ image::images/PanelWithFiducials.gif[Panel with Fiducials added]
   x=-1 Y=18,  X=  58 Y=18,  X=117 Y=18, X=176 Y=18,  X=235 Y=18 +
   x=-1 Y=57,  X=  58 Y=57,  X=117 Y=57, X=176 Y=57,  X=235 Y=57 +
   x=-1 Y=96,  X=  58 Y=96,  X=117 Y=96, X=176 Y=96,  X=235 Y=96 +
+  
+* Panel with the "Breakout.2x2mm" Symbols added.  
 
 image::images/PanelWithBreakouts.gif[Panel with Breakouts added]
 
