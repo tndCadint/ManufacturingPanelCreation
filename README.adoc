@@ -65,3 +65,24 @@ image::images/PanelWithFiducials.gif[Panel with Fiducials added]
 
 image::images/PanelWithBreakouts.gif[Panel with Breakouts added]
 
+* Add "Routed Slots" between all the "Breakout.2x2mm" Symbols: +
+  From the Cadint Menubar Select Add/Primitives/Wideline +
+  Select "Line Attributes" of "Layer="Panel Routing Unplated" and "Width=2mm" +
+  Place between all "BREAKOUT.2x2mm" symbols with start and finish offset by 2mm from centres.
+  
+* The Panel should now look like the following
+
+image::images/PanelWithRoutedSlots.gif[Panel with Routed Slots added]
+
+* Add Panel Tooling Holes as follows +
+  From the Cadint Menubar Select Add/Primitives/Drill Hole with Attributes "Layer=Hole Type 2", "Diam=4mm" +
+  Place four holes 5mmx5mm inside corners and two holes at Middle top of Board1 and Middle Bottomn of Board 4 +
+ 
+ * The Panel should now look like the following
+
+image::images/PanelWithToolingHoles.gif[Panel with Tooling Holes added]
+
+# The END
+
+  
+
