@@ -18,4 +18,4 @@ image::images/PCB-Design.gif[PCB Design to be panellised]
 
 image::images/PopulatedPanel.gif[Populated Panel]
 
-* end
+* Remove the "V Groove Route Traces" from the panel and replace with "Routed Slots" and "Breakout Sections"
