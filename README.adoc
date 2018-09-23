@@ -38,3 +38,12 @@ image::images/PopulatedPanel.gif[Populated Panel]
 * The Panel should now look like the following
 
 image::images/PanelWithCorrectOrigin.gif[Panel at New Origin]
+
+* Add the "Primary Fiducial" to the Panel.
+  From "Cadint Menubar" press "Add" and "PCB Component by Symbol".
+  Navigate to the PCB Symbol Library and Fiducials and select "Fiducial1"
+  Place it at the "Origin" of the Panel.
+  Query Fiducial and "Add New Property" as "PP_FIDUCIAL=PRIMARY"
+  Add "Secondary Fiducial" from Library and place it for "Board 2"
+  Query Fiducial and "Add New Property" as "PP_FIDUCIAL=SECONDARY"
+  Place a Copy of the "Secondary Fiducial" at the rmaining corners of all Four Boards
