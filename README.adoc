@@ -47,3 +47,7 @@ image::images/PanelWithCorrectOrigin.gif[Panel at New Origin]
   Add "Secondary Fiducial" from Library and place it for "Board 2" +
   Query Fiducial and "Add New Property" as "PP_FIDUCIAL=SECONDARY" +
   Place a Copy of the "Secondary Fiducial" at the rmaining corners of all Four Boards +
+
+* The Panel should now look like the following
+
+image::images/PanelWithFiducials.gif[Panel with Fiducials added]
