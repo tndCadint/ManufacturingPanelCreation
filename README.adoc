@@ -3,7 +3,8 @@
 * Launch Cadint and "Create New PCB Design" +
   Save as desired Name.
 * From Menubar "Add PCB Design as a Component" +
-  This is the PCB Design which is to be Panelised.
+  This is the PCB Design which is to be Panelised and looks like the following. +
+  image::images/PCB-Design.gif[PCB Design to be panellised]
 * From Menubar select "Tools - Panel Editor" to launch the "Panel Editor" +
   Select the "Panel Utility" +
   Leave "Outline Force" as is +
