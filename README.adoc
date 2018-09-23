@@ -35,4 +35,6 @@ image::images/PopulatedPanel.gif[Populated Panel]
     F. Ignore "Match Alternative" warning and press "OK"
     G. Now move all Panel Components by X=-12 and Y=-6 mm
     
-* The Panel should now look like the following  
+* The Panel should now look like the following
+
+image::images/PanelWithCorrectOrigin.gif[Panel at New Origin]
